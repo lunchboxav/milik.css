@@ -53,9 +53,8 @@ article {
   max-width: 640px;
 }
 
-time {
+time, small {
   font-size: 0.85rem;
-  display: block;
   margin-bottom: 0.5rem;
 }
 
@@ -63,6 +62,13 @@ article > time {
   margin: -1rem 0 1rem;
 }
 
+article > small {
+  margin-top: 0;
+  margin-left: 0.5rem;
+}
+
 img {
   height: 400px;
+  display: block;
+  margin-top: 1rem;
 }
