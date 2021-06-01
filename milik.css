@@ -37,6 +37,36 @@ p {
   margin-bottom: 1rem;
 }
 
+li {
+  font-size: 1.125rem;
+  padding-left: 0.5rem;
+}
+
+ul, ol {
+  padding: 0;
+  margin-left: 1rem;
+}
+
+blockquote {
+  background: #f3f3f3;
+  margin: 1rem 0;
+  padding: 0.1rem 1rem;
+  border-left: 5px solid #c4c4c4;
+}
+
+blockquote > p {
+  font-size: 1.33rem;
+  font-style: italic;
+}
+
+code {
+  font-family: monospace;
+}
+
+pre code {
+  font-size: 1.125rem;
+}
+
 header {
   width: 640px;
   margin: 0 auto;

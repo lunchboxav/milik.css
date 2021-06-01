@@ -28,7 +28,7 @@ Even as I started pretty late (comparatively, to others in the field) as a softw
 
 Maybe we can derive a `code` snippet for that condition
 
-```
+```js
 if (receiveKindness) {
     payItForward();
 } else {
