@@ -37,6 +37,14 @@ p {
   margin-bottom: 1rem;
 }
 
+p > img {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #286fda;
+}
+
 li {
   font-size: 1.125rem;
   padding-left: 0.5rem;
@@ -64,7 +72,7 @@ code {
 }
 
 pre code {
-  font-size: 1.125rem;
+  font-size: 1.125rem !important; /*overrides Prismjs default */
 }
 
 header {

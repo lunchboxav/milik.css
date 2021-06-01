@@ -9,6 +9,9 @@ Let me take a time to introduce you to who am I. After all, we will spend a bit 
 
 ## The Formative Years
 
+![gameboy](./images/gameboy.jpg)
+*Photo by <a href="https://unsplash.com/@dimhou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dim Hou</a> on <a href="https://unsplash.com/s/photos/nineties?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+
 Mid '90s was very instrumental in shaping up who I really am. I met many interestting characters just on that ime period alone. From my friendly neighbour, to that annoying senior that came very close to bullying me, had another friend came and stopped him from doing so. But it was during this time that I learned the following vital life lessons:
 
 - Always on the look of your friends
